@@ -33,5 +33,5 @@ The project aims to identify fake job postings using machine learning techniques
 ## Model Evaluation
 
 - The model was evaluated using a holdout set.
-- **F1 Score:** 0.696
+- **F1 Score:** 0.62
 - **Runtime:** 26.9 minutes
